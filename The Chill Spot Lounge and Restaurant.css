@@ -1,0 +1,139 @@
+﻿.Title {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	background-color: #CC00CC;
+	position: relative;
+}
+.LogoHomeNav {
+	float: left;
+	overflow: hidden;
+	position: relative;
+	background-image: none;
+}
+.topnav a:link, a:visited {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #000066;
+	
+}
+.auto-style8 a:hover {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #FF0000;
+}
+.auto-style8 a:link, a:visited {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #000080;
+	
+}
+Feedback for Hours {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #000080;
+	background-image: url('the Chill spot 8 ball pool.jpg');
+	cursor: auto;
+	text-decoration: underline overline;
+}
+.topnav1 {
+	border: 1px solid #3366FF;
+	font-family: tahoma;
+	font-size: x-small;
+	font-weight: bold;
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+	width: 50%;
+	float: right;
+	height: 34px;
+	right: 18px;
+}
+.newStyle2 {
+	position: relative;
+	float: right;
+}
+.NavInsert {
+	border: 1px solid #3333CC;
+	padding: 0px;
+	margin: 0px;
+	text-align: center;
+}
+.HappyHourHead {
+	padding: 14px;
+	margin: 0px;
+	text-align: center;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: x-large;
+	font-weight: lighter;
+	font-style: oblique;
+	text-decoration: underline overline;
+	border-style: solid none solid none;
+	border-width: 1px;
+	border-color: #3333CC;
+	bottom: 34px;
+	height: 34px;
+	top: 39px;
+	background-color: #FFFF99;
+	background-image: url('Happy hour Chill Spot.jpg');
+	color: #ABFF22;
+}
+.Happyhourtopic {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: medium;
+	text-align: center;
+	border-style: solid none solid none;
+	border-width: 1px;
+	border-color: #6699FF;
+	padding: 96px;
+	color: #000000;
+	background-color: #99FF99;
+}
+.IntroLounge {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: medium;
+	font-weight: 200;
+	text-align: justify;
+	float: left;
+	background-color: #ABFF22;
+}
+.topnav1Copy {
+	border: 2px solid #3366FF;
+	font-family: tahoma;
+	font-size: small;
+	font-weight: bold;
+	text-align: center;
+	padding: 1px;
+	margin: 1px;
+	width: 50%;
+	float: right;
+	height: 34px;
+	right: 18px;
+	color: #A5A0EE;
+	background-color: #CC00FF;
+}
+.AboutUstop {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: large;
+	font-weight: 400;
+	border-style: solid none solid none;
+	border-width: 2px;
+	border-color: #9966FF;
+	padding: 1px;
+	margin: 1px;
+	color: #C702BF;
+	background-color: #AB5AFC;
+}
+.HappyHourHeadCopy {
+	padding: 14px;
+	margin: 0px;
+	text-align: center;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: xx-large;
+	font-weight: lighter;
+	font-style: oblique;
+	text-decoration: underline overline;
+	border-style: solid none solid none;
+	border-width: 1px;
+	border-color: #3333CC;
+	bottom: 34px;
+	height: 34px;
+	top: 39px;
+	background-color: #FFFF99;
+	background-image: none;
+	color: #ABFF22;
+}
